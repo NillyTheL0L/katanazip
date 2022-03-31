@@ -7,4 +7,4 @@ puts "==> Giving Permissions...."
 system( "chmod +x ~/crzip" )
 puts "==> Moving to /usr/bin"
 system ( "sudo mv ~/crzip /usr/bin" )
-puts "===> App installed with sucess now type crzip -h"
+puts "===> App installed with sucess now type katanazip -h"

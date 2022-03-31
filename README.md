@@ -1,18 +1,17 @@
-# crzip
+# KatanaZip
+<img src=https://thumbs.dreamstime.com/b/zipper-icon-sign-symbol-vector-illustration-gray-background-144594388.jpg height="100"/>
 
-TODO: Write a description here
+This scripts extract all .zip .lz .bz and etc in your directory
 
 ## Installation
 
-TODO: Write installation instructions here
+1. Download kzBuild from [Katana Zip WebSite](https://katanazip.emperror.repl.co/) (or download from here)
+2. give permissions to kzBuild
+3. execute kzBuild
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+katanazip -h
 
 ## Contributing
 
@@ -24,4 +23,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/your-github-user) - creator and maintainer
+- [NillyTheL0L](https://github.com/nillythel0l) - creator and maintainer
